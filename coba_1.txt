@@ -1,2 +1,5 @@
 Ini adalah file percobaan pertama
 Perubahan #1
+ - saya ingin belajar bahasa C++
+ - saya ingin menguasai full stack development
+ - Belajar advanced Pythonn
