@@ -1,5 +1,11 @@
 Ini adalah file percobaan pertama
 Perubahan #1
+  > Target Belajar Pemrograman
+  - saya ingin belajar bahasa C++
+  - saya ingin menguasai full stack development
+  - Belajar advanced Python
+  
+  > Target Belajar Matematika
   - saya akan belajar kalkulus integral
   - Belajar metode integral parsial
   - Belajar Aljabar Linear
