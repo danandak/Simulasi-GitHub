@@ -1,2 +1,5 @@
 Ini adalah file percobaan pertama
 Perubahan #1
+  - saya akan belajar kalkulus integral
+  - Belajar metode integral parsial
+  - Belajar Aljabar Linear
