@@ -51,7 +51,7 @@
 - Muhammad Adam Lazuardi Agung
 - Muhammad Alfin Khaerudin
 
-*Note : Meet pertama dilakukan sebelum Veniyel bergabung dengan kelompok Handrian
+*Note : Meet dilakukan sebelum Veniyel bergabung dengan kelompok Handrian
 
 ### Bukti Kehadiran 
 
