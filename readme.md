@@ -2,7 +2,7 @@
 
 ## Tentang Projek
 
-**Pemilik Projek** : Kak Anantassa (Alumni angkatan 2013) <br>
+**Pemilik Projek** : Kak Anantassa (Alumni angkatan 2013)
 **Tema Projek** : Dashboard TK (Nama dashboard : Kidsera Dashboard)
 
 ## Fitur
@@ -16,7 +16,6 @@
 ## Pelaksanaan Meet dengan Alumni
 
 ### List Anggota yang Hadir
-
 - Danan Danurwenda Adi Kusuma
 - Farhan Maulana Aziz
 - Fikri Ilham Arifin
@@ -24,6 +23,8 @@
 - Muhammad Adam Lazuardi Agung
 - Muhammad Alfin Khaerudin
 
+*Note : Meet pertama dilakukan sebelum Veniyel bergabung dengan kelompok Handrian
+
 ### Bukti Kehadiran 
 
-<img src="https://drive.google.com/uc?export=view&id=1DZGZZ3Vwb-S-IVLeS-qNMgPI5rYoPROR" alt="meet bersama alumni"/>       
+![Meeting dengan alumni](https://imgur.com/vDLslhQ.jpg)
