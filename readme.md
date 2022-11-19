@@ -55,4 +55,4 @@
 
 ### Bukti Kehadiran 
 
-![imgur](https://imgur.com/vDLslhQ.png)      
+![Meet dengan alumni](https://imgur.com/vDLslhQ.png)      
