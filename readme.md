@@ -26,4 +26,4 @@
 
 ### Bukti Kehadiran 
 
-<img src="https://drive.google.com/file/d/1DZGZZ3Vwb-S-IVLeS-qNMgPI5rYoPROR/view?usp=sharing" alt="meet bersama alumni"/>       
+<img src="https://drive.google.com/uc?export=view&id=1DZGZZ3Vwb-S-IVLeS-qNMgPI5rYoPROR" alt="meet bersama alumni"/>       
