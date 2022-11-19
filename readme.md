@@ -2,7 +2,7 @@
 
 ## Tentang Projek
 
-**Pemilik Projek** : Kak Anantassa (Alumni angkatan 2013)
+**Pemilik Projek** : Kak Anantassa (Alumni angkatan 2013) <br>
 **Tema Projek** : Dashboard TK (Nama dashboard : Kidsera Dashboard)
 
 ## Fitur
