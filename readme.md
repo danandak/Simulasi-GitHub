@@ -27,8 +27,8 @@ Pukul 19.30 sd. selesai
 - Handrian Wibisono
 - Mochamad Adam Lazuardi Agung
 - Muhammad Alfin Khaerudin
+- Veniyel Hasugian
 
-*Note : Meet dilakukan sebelum Veniyel bergabung dengan kelompok Handrian
 ### Bukti Pelaksanaan Meet
 
-![Meet dengan alumni](https://imgur.com/EE4GQpm.png)      
+![Meet dengan alumni](https://imgur.com/EE4GQpm.png)
