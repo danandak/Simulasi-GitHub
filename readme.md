@@ -15,10 +15,6 @@
 
 ## Pelaksanaan Meet dengan Alumni
 
-### Waktu Pelaksanaan
-Minggu, 13 November 2022 <br>
-Pukul 19.30 sd. selesai
-
 ### List Anggota yang Hadir
 
 - Danan Danurwenda Adi Kusuma
@@ -32,3 +28,4 @@ Pukul 19.30 sd. selesai
 ### Bukti Pelaksanaan Meet
 
 ![Meet dengan alumni](https://imgur.com/EE4GQpm.png)
+![Meet dengan alumni2](https://imgur.com/l99w86b.png)
