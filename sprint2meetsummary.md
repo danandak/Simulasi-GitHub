@@ -39,3 +39,4 @@
 ### Bukti Pelaksanaan Meet
 ![Meet Sprint 2](https://imgur.com/GtSAtp4.png)
 ![Meet Sprint 2](https://imgur.com/JQG3kwP.png)
+![Meet Sprint 2](https://imgur.com/xZGKrP7.png)
